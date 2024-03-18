@@ -1,0 +1,107 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_54EFA87A_73BC_48DA_41C2_E83F6AEC8BC4.url = https://bja-firebase.web.app/main-banner.html
+PopupWebFrameBehaviour_5AFF6A83_73BC_482B_41C7_3B561659A29F.url = https://bja-firebase.web.app/main-banner.html
+PopupWebFrameBehaviour_771C7F51_7851_EEFC_41CA_AD5B572C1464.url = https://bja-firebase.web.app/wbbm.html
+PopupWebFrameBehaviour_7779D947_7851_32E4_41B3_F2D6DBF53620.url = https://bja-firebase.web.app/wbbm.html
+LinkBehaviour_B5239984_A1FD_1027_41D5_362A45D10DAB.source = https://home.profesikeuanganexpo.id/#/login
+LinkBehaviour_B4F2A937_A1E3_7062_41B0_2F7B067954CB.source = https://home.profesikeuanganexpo.id/#/register
+LinkBehaviour_BF7447A4_A225_1067_41DE_8B26A1D2A537.source = https://rebrand.ly/audipppk
+LinkBehaviour_6AE81313_7394_782A_41D6_B304370005A5.source = https://rebrand.ly/audipppk
+PopupWebFrameBehaviour_50A041B6_73F4_586A_41BF_67215F202B34.url = https://rebrand.ly/galerifotopppk
+PopupWebFrameBehaviour_55B5D300_7397_F826_41CD_15E94D43620C.url = https://rebrand.ly/hariuangpppk
+WebFrame_937398A5_9CB7_8680_41C4_6FE024FE7400.url = https://rebrand.ly/navigasimap
+LinkBehaviour_550B9F14_73B5_C82E_4197_046CD8D8F3C2.source = https://rebrand.ly/platform-ke-taman
+LinkBehaviour_BF5D58BA_A223_3062_41BB_8E2A68ABF2C2.source = https://rebrand.ly/platform-ke-taman
+LinkBehaviour_52BC3DA5_73F4_486F_41D0_19F7A3DCA030.source = https://www.profesikeuanganexpo.id/
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_9817B3FD_897F_6E6D_41CF_2AE3CC96075A.toolTip = Klik Disini
+
+## Media
+
+### Audio
+audiores_6EF31387_738C_782A_41C0_1669FADFEE73.mp3Url = media/audio_6E8D5418_738C_D826_41A6_72EA177AA297_en.mp3
+
+### Title
+photo_2F69664E_8A96_A9AF_41D9_7412EDE41096.label = 1
+photo_2F69664E_8A96_A9AF_41D9_7412EDE41096.label = 1
+photo_111D3862_8A96_B997_41AC_3DC21D32621E.label = 2
+photo_111D3862_8A96_B997_41AC_3DC21D32621E.label = 2
+photo_11088BA2_8A96_BE97_41AF_DDB16A1B323F.label = 3
+photo_11088BA2_8A96_BE97_41AF_DDB16A1B323F.label = 3
+photo_1108FE04_8A96_B993_41CC_4C5641F77A5D.label = 4
+photo_1108FE04_8A96_B993_41CC_4C5641F77A5D.label = 4
+photo_1108A057_8A96_A9BD_41D5_F398362C5581.label = 5
+photo_1108A057_8A96_A9BD_41D5_F398362C5581.label = 5
+video_6FC105A3_738F_F86E_41CA_AB62DAA6175A.label = bridging audi
+album_4A5FD3AF_8478_EB07_41B7_8F17179266A3.label = galery
+video_55171EEC_738C_49FD_41CD_2B5E90E248E4.label = lift exhibition
+panorama_824F9291_A227_103E_41E3_0ED004FC287E.label = lobi
+panorama_BD120C36_A227_7062_41B1_6354DBE6993A.label = lobitutorial
+
+video_3E5921F2_8458_E719_41D3_430205E944AE.label = tirai fix
+video_2F8B1817_8438_2507_41DA_84AB0B94D6C1.label = tutorial lift
+
+### Video
+videolevel_B7A2879D_AF0F_84E4_41AC_82845CFB2BBD.url = media/video_2F8B1817_8438_2507_41DA_84AB0B94D6C1_en.m3u8
+videolevel_B7A027BA_AF0F_842C_41D4_251EFC01522D.url = media/video_2F8B1817_8438_2507_41DA_84AB0B94D6C1_en.mp4
+videolevel_B7A2879D_AF0F_84E4_41AC_82845CFB2BBD.posterURL = media/video_2F8B1817_8438_2507_41DA_84AB0B94D6C1_poster_en.jpg
+videolevel_B7A027BA_AF0F_842C_41D4_251EFC01522D.posterURL = media/video_2F8B1817_8438_2507_41DA_84AB0B94D6C1_poster_en.jpg
+videolevel_B7A39802_AF0F_8BDC_41D5_31294684C28F.url = media/video_3E5921F2_8458_E719_41D3_430205E944AE_en.m3u8
+videolevel_B7A3B802_AF0F_8BDC_41D2_418F7121F5E6.url = media/video_3E5921F2_8458_E719_41D3_430205E944AE_en.mp4
+videolevel_B7A3B802_AF0F_8BDC_41D2_418F7121F5E6.posterURL = media/video_3E5921F2_8458_E719_41D3_430205E944AE_poster_en.jpg
+videolevel_B7A39802_AF0F_8BDC_41D5_31294684C28F.posterURL = media/video_3E5921F2_8458_E719_41D3_430205E944AE_poster_en.jpg
+videolevel_B7A0875F_AF0F_8463_41CA_20B725489483.url = media/video_55171EEC_738C_49FD_41CD_2B5E90E248E4_en.m3u8
+videolevel_B7A0B75F_AF0F_8463_41CB_3423443FE48F.url = media/video_55171EEC_738C_49FD_41CD_2B5E90E248E4_en.mp4
+videolevel_B7A0875F_AF0F_8463_41CA_20B725489483.posterURL = media/video_55171EEC_738C_49FD_41CD_2B5E90E248E4_poster_en.jpg
+videolevel_B7A0B75F_AF0F_8463_41CB_3423443FE48F.posterURL = media/video_55171EEC_738C_49FD_41CD_2B5E90E248E4_poster_en.jpg
+videolevel_B7AED6FB_AF0F_8423_41D5_0B1BF5B08B4F.url = media/video_6FC105A3_738F_F86E_41CA_AB62DAA6175A_en.m3u8
+videolevel_B7AEF6FB_AF0F_8423_41DB_74D2F7C4F4E4.url = media/video_6FC105A3_738F_F86E_41CA_AB62DAA6175A_en.mp4
+videolevel_B7AED6FB_AF0F_8423_41D5_0B1BF5B08B4F.posterURL = media/video_6FC105A3_738F_F86E_41CA_AB62DAA6175A_poster_en.jpg
+videolevel_B7AEF6FB_AF0F_8423_41DB_74D2F7C4F4E4.posterURL = media/video_6FC105A3_738F_F86E_41CA_AB62DAA6175A_poster_en.jpg
+
+## Skin
+
+### Button
+Button_9728FA85_A393_076D_41E0_C48C77223DD7.label = AKHIRI TUTORIAL
+Button_939B08D4_A3F1_04E3_41D4_431E46089B7B.label = AKHIRI TUTORIAL
+Button_5C307F25_8468_3B3B_41D2_F580E20AB532.label = LANJUT TUTORIAL
+Button_56C987F5_7E49_5A2D_41B0_A8115540BF04.label = LANJUTKAN TUTORIAL
+Button_25A70FE0_8428_3B38_41D9_0152C2B2BA5A.label = LANJUTKAN TUTORIAL
+Button_65F2881A_7EFB_B5E7_41D5_C9E603130B89.label = LEWATI TUTORIAL
+Button_6409E073_7EFB_D626_41BE_ECDC2185C457.label = LIHAT TUTORIAL
+Button_B31DFA7A_A1E5_30E2_41D2_EE83ACD048F1.label = LOGIN
+Button_A313E378_89F3_6E72_41CB_497653A61451.label = LOGIN AS GUEST
+Button_B33E94C4_A1E5_3026_41D4_CC0B27AF7D24.label = REGISTER
+Button_25A74FE1_8428_3B38_41D0_F3C09B0CE6C0.label = SKIP TUTORIAL
+Button_0E83B470_85F8_2D19_41D0_EBFED8E797F2.label = SKIP TUTORIAL
+
+### Image
+Image_0AC0C13E_8A8D_ABEF_41C7_1D6ECC2A769F.url = skin/Image_0AC0C13E_8A8D_ABEF_41C7_1D6ECC2A769F_en.png
+Image_16DF39E1_8AB6_9A95_41D2_56AD29A332E5.url = skin/Image_16DF39E1_8AB6_9A95_41D2_56AD29A332E5_en.png
+Image_638DA132_7EF8_D626_41DB_5EFEF0DAE79C.url = skin/Image_638DA132_7EF8_D626_41DB_5EFEF0DAE79C_en.png
+Image_939C58D1_A3F1_04E5_41D2_A52929F9A1E4.url = skin/Image_939C58D1_A3F1_04E5_41D2_A52929F9A1E4_en.png
+Image_93BB974D_A3AF_0DFD_41E2_8C99CDEDAE67.url = skin/Image_93BB974D_A3AF_0DFD_41E2_8C99CDEDAE67_en.jpg
+Image_97038D6D_A227_10E6_41E3_C40B7957300B.url = skin/Image_97038D6D_A227_10E6_41E3_C40B7957300B_en.jpg
+Image_9A4B949F_A21D_1021_4199_AAFBC5E51152.url = skin/Image_9A4B949F_A21D_1021_4199_AAFBC5E51152_en.jpg
+Image_A280DEBE_8993_B6EF_41E0_49202CA31996.url = skin/Image_A280DEBE_8993_B6EF_41E0_49202CA31996_en.png
+Image_FFBFD545_8A8D_AB9D_41B6_15F824B3E0D6.url = skin/Image_FFBFD545_8A8D_AB9D_41B6_15F824B3E0D6_en.png
+
+### Multiline Text
+HTMLText_F0459A13_8AF2_F9B5_41C4_D71DAAE1FB3B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.7563395810363835vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000033;font-size:2.76vh;font-family:'Roboto';"><B>Booth PPPK dan Asosiasi</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7640573318632855vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.76vh;font-family:'Roboto';"><B>Kunjungi booth Pusat Pembinaan Profesi Keuangan (PPPK) dan asosiasi profesi keuangan, untuk mengenal lebih dekat profesi keuangan yang dibina oleh Kementerian Keuangan.</B></SPAN></SPAN></DIV></div>
+HTMLText_1CED68A9_8AB5_9AE8_41B7_E198286EC0EF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.3076074972436604vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.31vh;font-family:'Roboto';"><B>Tutorial Galeri</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.65vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8743109151047408vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.87vh;font-family:'Roboto';"><B>Kunjungi galeri untuk menyaksikan beragam fotografi dan reels karya peserta perlombaan Profesi Keuangan Expo 2022.</B></SPAN></SPAN></DIV></div>
+HTMLText_939CE8D3_A3F1_04E5_41DC_A3C45E6551F6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.3076074972436604vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.31vh;font-family:'Roboto';"><B>Tutorial Navigasi</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.65vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8743109151047408vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.87vh;font-family:'Roboto';"><B>Gunakan fitur navigasi untuk mengakses shortcut seluruh menu dalam situs web Profesi Keuangan Expo 2022.</B></SPAN></SPAN></DIV></div>
+HTMLText_F5345A02_8AF3_B997_41D3_B925679FD0B5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6383682469680263vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000033;font-size:3.64vh;font-family:'Roboto';"><B>Mainstage (Webinar)</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7640573318632855vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.76vh;font-family:'Roboto';"><B>Simak rangkaian webinar seputar profesi keuangan serta respons dan perannya dalam penguatan ekonomi digital dan berkelanjutan.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.76vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7640573318632855vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.76vh;font-family:'Roboto';"><B>Anda dapat menyaksikan webinar secara live maupun melalui siaran ulang.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.76vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7640573318632855vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.76vh;font-family:'Roboto';"><B>Dapatkan juga free e-certificate untuk setiap webinar yang Anda ikuti.</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Profesi Keuangan Expo 2022

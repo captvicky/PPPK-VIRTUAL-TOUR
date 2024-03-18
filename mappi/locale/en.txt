@@ -1,0 +1,49 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_35B2330C_7FE6_2CE4_41D7_83611972EF94.url = https://drive.google.com/file/d/1IAnzMZ01_Snb7joLKHOhEp2M_JbX7RAP/preview
+WebFrame_34385EBB_7FE6_7523_41CD_EF355349F405.url = https://drive.google.com/file/d/1mSlq-XhZ8IX7_LXyJHJ68lSgd6kk6F0l/preview
+WebFrame_3364FEFF_7FFA_3524_41A2_2ADC780D40FF.url = https://drive.google.com/file/d/1niPgTRZS-hu9hiSn8IswWET1kS14pze2/preview
+LinkBehaviour_299CE0F7_7F66_6D24_41CB_E2F9E3EEA76C.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_216BC44F_7F66_1564_41D8_60212CACFBF0.source = https://home.profesikeuanganexpo.id/#/url/168
+WebFrame_32DA3F84_7FEA_13E4_41A1_BA6FFB27BDE7.url = https://mappi.or.id/SitePages/Default.aspx
+LinkBehaviour_2D957C67_7F1A_1524_41DC_2839B61A4A24.source = https://mappi.or.id/SitePages/Default.aspx
+LinkBehaviour_2D4C4C65_7F26_1527_41C2_F4B08B64D8AD.source = https://mappi.or.id/SitePages/Default.aspx
+LinkBehaviour_B53F05C8_83CF_4E38_41B8_52E7990257A8.source = https://rebrand.ly/calendlymappi
+WebFrame_2AD8E0A6_7F2A_2D24_4198_DB1469B622F5.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.7289509936613!2d106.82981121490884!3d-6.299303595440893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69edf7d12a98d3%3A0xa29985100f9b696e!2s18%20Office%20Park!5e0!3m2!1sid!2sid!4v1664291942796!5m2!1sid!2sid
+WebFrame_2EC959FC_7FEA_1F25_41D9_74145F7B86DF.url = //www.youtube.com/embed/WLiZTnb0hcU
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_2E4AC47A_7F2E_152D_41D0_EF51E04AAE3E.text = KEMBALI KE NAVIGASI
+
+## Media
+
+### Audio
+audiores_38A84388_7FFE_13EC_4172_AC0BC95F8DA1.mp3Url = media/audio_318B8668_7FFE_752C_41CC_E5C0A6198F09_en.mp3
+
+### Image
+imlevel_22B2AE4F_A291_1FFE_41E3_701251DEE5F6.url = media/panorama_DD0D4D21_A297_1DA5_41C6_0517454BC531_HS_j6c9cy0j_en.png
+
+### Title
+panorama_DD0D4D21_A297_1DA5_41C6_0517454BC531.label = MAPPI
+
+## Right Click Menu
+
+### Text
+PlayerMenuItem_27E19693_7F6A_15FC_41DD_49EB64653D0F.label = Item 1
+
+## Skin
+
+### Image
+Image_B4EF7FD8_83CF_39D8_41D9_9E83F6FDE950.url = skin/Image_B4EF7FD8_83CF_39D8_41D9_9E83F6FDE950_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = MAPPI

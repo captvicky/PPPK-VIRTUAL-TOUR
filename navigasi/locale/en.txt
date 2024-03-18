@@ -1,0 +1,41 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_943DB0B4_A265_1066_41E2_A6EC68165DB4.source = https://home.profesikeuanganexpo.id/#/url/179
+LinkBehaviour_96BAFDC0_A264_F01F_41D2_6DF7580B2E4A.source = https://rebrand.ly/audipppk
+LinkBehaviour_954DF3E1_A21D_101E_41E3_D738C1C8EBB6.source = https://rebrand.ly/boothakai
+LinkBehaviour_96F2E3B2_A263_1063_41DE_DACC1397FEFF.source = https://rebrand.ly/boothakp21
+LinkBehaviour_97829A01_A225_1021_41A6_C2B810C91256.source = https://rebrand.ly/boothiai
+LinkBehaviour_B4BDC0B4_BB70_92A5_41D4_E85CAD01DD3F.source = https://rebrand.ly/boothiami
+LinkBehaviour_96DD41B4_A223_1067_41B7_61FCF94F621B.source = https://rebrand.ly/boothiapi
+LinkBehaviour_97473ACD_A22F_7021_41BB_6464D62223C4.source = https://rebrand.ly/boothikpi
+LinkBehaviour_942CD62D_A26D_F061_41DE_B17C789238F1.source = https://rebrand.ly/boothlspta
+LinkBehaviour_96C84649_A223_102E_41E2_FB0C4267AB46.source = https://rebrand.ly/boothmappi
+LinkBehaviour_94E3A986_A26F_1023_41DA_B02851A186FA.source = https://rebrand.ly/boothp3pi
+LinkBehaviour_91F41246_A21D_3023_4195_955A211D1815.source = https://rebrand.ly/boothpai
+LinkBehaviour_96D343F8_A22D_17EE_41D5_1E9A35323073.source = https://rebrand.ly/boothperaki
+LinkBehaviour_96AC4F58_A22F_302F_41E4_2BD8664AA16E.source = https://rebrand.ly/boothperkopi
+LinkBehaviour_97F3A813_A26D_1021_41D2_DC653EF0A934.source = https://rebrand.ly/boothppl21
+LinkBehaviour_97609B10_A265_7020_41B8_7465AD9326E1.source = https://rebrand.ly/boothpppk
+
+## Media
+
+### Audio
+audiores_502CF7FF_73F4_47DA_41D9_1D9BA3296C68.mp3Url = media/audio_5029A9BD_73F4_485E_41D1_3D07AB7C1BA1_en.mp3
+
+### Title
+panorama_27ADF886_A56F_036E_41B0_250A780E75E7.label = navigasi
+
+## Skin
+
+### Image
+Image_8C1D6824_9D49_4EFF_41E0_EED12DD9A309.url = skin/Image_8C1D6824_9D49_4EFF_41E0_EED12DD9A309_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = navigasi

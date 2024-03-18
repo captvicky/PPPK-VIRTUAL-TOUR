@@ -1,0 +1,44 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_CA9B33AE_8428_6B09_41DB_491A66930580.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_C82860B9_8428_250B_4188_F5F941D09189.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_C775A3FD_84D8_6B08_4185_C1BD55380EB8.source = https://rebrand.ly/calendyakp21
+WebFrame_C68E1156_84D8_2719_41DB_A8277AEA3F89.url = https://www.akp2i.or.id/
+LinkBehaviour_CDEFEC04_8428_1CF9_41E0_1C16F1651183.source = https://www.facebook.com/akp2indonesia/
+WebFrame_C84F6C4B_8438_3D0F_41D0_E83298A9E678.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.5001007173123!2d106.82256271470888!3d-6.197556695513356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f54ae27fe3e3%3A0xd2f6ed3757f4201d!2sAsosiasi%20Konsultan%20Pajak%20Publik%20Indonesia%20-%20AKP2I!5e0!3m2!1sid!2sid!4v1664378914968!5m2!1sid!2sid
+LinkBehaviour_C637E9F2_84E8_E718_41AC_349F6C28CC7B.source = https://www.instagram.com/akp2indonesia/
+LinkBehaviour_C2558CFC_8428_1D08_4168_4F9DD9ADCC6C.source = https://www.linkedin.com/company/akp2indonesia/
+LinkBehaviour_99AA69C6_8FDA_8CE9_41DC_AD7B85B1D147.source = https://www.youtube.com/channel/UCwky-kHeYoNmCEd9v-Gr7iA
+LinkBehaviour_99AB9BC8_8FDA_8CF8_41CD_4872AD7DF970.source = https://www.youtube.com/channel/UCwky-kHeYoNmCEd9v-Gr7iA
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_D5BC40DB_8428_250F_41CB_71263081964F.text = KEMBALI KE NAVIGASI
+
+## Media
+
+### Audio
+audiores_D23C6EB4_8458_1D19_41D6_4DC3BFFC5AD0.mp3Url = media/audio_D0EF60BC_8458_2509_4181_CD4814EA2146_en.mp3
+audiores_D3F34364_8458_EB39_4187_457BF34A50E6.mp3Url = media/audio_D737E465_8458_6D3B_41D5_961724D8AA9F_en.mp3
+
+### Image
+imlevel_BC65AF2A_A74D_6A49_41C6_1BDD560478F9.url = media/panorama_C5051E02_84E8_1CF8_41DE_2FC6390DB1E1_HS_rileewyp_en.png
+
+### Title
+panorama_C5051E02_84E8_1CF8_41DE_2FC6390DB1E1.label = booth
+
+## Skin
+
+### Image
+Image_C4C18E35_84E8_3D1B_41DD_878D7E53A8B4.url = skin/Image_C4C18E35_84E8_3D1B_41DD_878D7E53A8B4_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = AKP21

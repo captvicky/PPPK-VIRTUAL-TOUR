@@ -1,0 +1,44 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_9FC7054C_83CD_4E38_41DE_45BC618E0ECF.url = https://drive.google.com/file/d/1Nvr4rtW3WeMzGDpqttFy9oPAXhE2nzic/preview
+WebFrame_AB41D3B8_8074_D31F_41DF_AC369AAF38B0.url = https://drive.google.com/file/d/1TI4uQxNgyJR6MMP4MGeyM9qE0Tsd7Xe4/preview
+WebFrame_9E0EE05A_83CD_46D8_41D1_2FF59C7E239B.url = https://drive.google.com/file/d/1X3RS_q74-ZTC3XyjEbUQFbZECO-pGj7v/preview
+WebFrame_AE4D37C8_8015_D37E_41DF_FA71B1A0F35C.url = https://drive.google.com/file/d/1qAPufypYVbHLIN3YMrSXEvZ4y6EQRMt2/preview
+LinkBehaviour_ADCC47C6_8074_7372_41DB_A701D946B22E.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_AEE167CD_8074_3376_41B4_A1BAC1F615C5.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_95EEEB2B_8FF5_8DBF_41D8_D94C74271AEC.source = https://rebrand.ly/calendlyiami
+WebFrame_ABF439B8_807C_3F1F_41D1_F47F86C0BB05.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1155.6006144772261!2d106.81422988574049!3d-6.218393406616781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f155279ad35d%3A0x4020da19af5a71ab!2sGedung%20A1%2C%20Jl.%20Jend.%20Sudirman%20No.51%2C%20RT.5%2FRW.4%2C%20Karet%20Semanggi%2C%20Kecamatan%20Setiabudi%2C%20Kota%20Jakarta%20Selatan%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2012930!5e0!3m2!1sid!2sid!4v1664303207885!5m2!1sid!2sid
+WebFrame_AB57FBAF_806C_D331_41CD_5B73B50C0816.url = //www.youtube.com/embed/VJhtvoaGhyw
+WebFrame_A8972CE5_801C_7531_41D6_850508FE4F7F.url = //www.youtube.com/embed/zCApfzndxJg
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_AE14BEBC_807C_5516_41DB_368A7982B342.text = KEMBALI KE NAVIGASI
+
+## Media
+
+### Audio
+audiores_B3D59968_8073_DF3F_41DC_C8C7E4865829.mp3Url = media/audio_B1FAF1F2_8073_CF12_41D0_799EFC62A313_en.mp3
+
+### Image
+imlevel_BF1F60D0_A745_D7D8_41E0_714FC324C986.url = media/panorama_AA41CC96_802C_3513_41C3_BDAED146B93B_HS_jq7v1k3j_en.png
+
+### Title
+panorama_AA41CC96_802C_3513_41C3_BDAED146B93B.label = booth
+
+## Skin
+
+### Image
+Image_94EB49E6_8FF6_8CA9_41C0_8E09F427EA33.url = skin/Image_94EB49E6_8FF6_8CA9_41C0_8E09F427EA33_en.png
+
+## Tour
+
+### Description
+tour.description = Event Profesi Keuangan Expo 2022
+
+### Title
+tour.name = IAMI

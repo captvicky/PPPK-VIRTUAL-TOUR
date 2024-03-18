@@ -1,0 +1,40 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_96F497B7_9802_4D8E_41E2_35041FC4D44D.source = https://rebrand.ly/calendlyppl21
+LinkBehaviour_F32EC317_A293_056E_41DF_D84DEFE9D503.source = https://rebrand.ly/navigasitamanpppk
+LinkBehaviour_E9241278_A293_07A2_41C2_71929A0604AE.source = https://rebrand.ly/navigasitamanpppk
+LinkBehaviour_8CEEB06C_9802_4281_41E0_D52D22099CC8.source = https://www.instagram.com/ppl2i/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_E8DF1889_A371_0365_41DA_EEB89AB82C5C.text = KEMBALI KE NAVIGASI
+
+## Media
+
+### Audio
+audiores_8F2CBDD8_9806_5D82_41D7_691D016BA1CB.mp3Url = media/audio_8F0D1AF4_9801_C782_41DF_F11485A8AEB9_en.mp3
+
+### Image
+imlevel_BF240599_A75D_5E4B_41CB_49938DF8AC25.url = media/panorama_88AC96D8_9DCB_C357_41E1_958833794301_HS_zumssu7u_en.png
+
+### Title
+panorama_88AC96D8_9DCB_C357_41E1_958833794301.label = 360 PPL2I
+
+## Skin
+
+### Image
+Image_899FFC66_981E_428E_41D6_08FFA39C3FB9.url = skin/Image_899FFC66_981E_428E_41D6_08FFA39C3FB9_en.jpg
+Image_89C15D93_9803_DD86_41D7_1A8AF4B98D1C.url = skin/Image_89C15D93_9803_DD86_41D7_1A8AF4B98D1C_en.jpg
+Image_89C710C7_9802_438E_41E1_E478DBF3A847.url = skin/Image_89C710C7_9802_438E_41E1_E478DBF3A847_en.jpg
+Image_958CF86F_9802_429F_41C4_B9CBA1302E64.url = skin/Image_958CF86F_9802_429F_41C4_B9CBA1302E64_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = PPL21

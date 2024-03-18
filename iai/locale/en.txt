@@ -1,0 +1,47 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_6BF1207C_7E78_F623_41AD_F57BCD23FEB5.source = http://www.iaiglobal.or.id/v03/PPL/jadwalkursus
+LinkBehaviour_6B3B6A35_7E7B_4A22_41D4_5B1B8F2229D6.source = http://www.iaiglobal.or.id/v03/PPL/jadwalkursus
+WebFrame_4F4D6F55_7F6E_1367_41C5_A0F2A6FE1828.url = https://apafest.iaiglobal.or.id/
+LinkBehaviour_6BAFE376_7EC8_BA2E_41D0_D943B1277611.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_6805364D_7ECB_7A62_41B9_D62E1C167744.source = https://home.profesikeuanganexpo.id/#/url/168
+WebFrame_D9823CD4_8468_1D19_41CA_A7EB7ACD8DB7.url = https://kongres.iaiglobal.or.id/
+WebFrame_D82F0403_8468_2CFF_41D2_9DEC7102EDF4.url = https://mobile-api.iaiglobal.or.id/login
+WebFrame_4F0FA64D_7F66_3564_41CF_DE9ECEC868A0.url = https://mobile-api.iaiglobal.or.id/login
+LinkBehaviour_D1E7A2D2_8468_2519_41B4_1025BDFA536F.source = https://rebrand.ly/calendyiai
+WebFrame_5314FA0E_7F6E_7CE4_41D1_D5987EE937A4.url = https://web.iaiglobal.or.id/Sertifikasi-IAI/Ujian%20Sertifikasi%20Akuntan%20Profesional%20CA
+WebFrame_B8DEAC52_8823_FE97_41D6_E7C41EF17535.url = https://web.iaiglobal.or.id/beranda
+WebFrame_B9396D31_8823_5E95_41D6_BE13D0D1CF72.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.446370685621!2d106.8390562147089!3d-6.204699795508289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f412cda0ce67%3A0x193f6aad67fa6584!2sJl.%20Sindanglaya%20No.1%2C%20RT.2%2FRW.7%2C%20Menteng%2C%20Kec.%20Menteng%2C%20Kota%20Jakarta%20Pusat%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2010310!5e0!3m2!1sid!2sid!4v1664380625208!5m2!1sid!2sid
+WebFrame_DE05331C_8478_2B09_41C2_AF14CFD628DA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.446370685621!2d106.8390562147089!3d-6.204699795508289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f412cda0ce67%3A0x193f6aad67fa6584!2sJl.%20Sindanglaya%20No.1%2C%20RT.2%2FRW.7%2C%20Menteng%2C%20Kec.%20Menteng%2C%20Kota%20Jakarta%20Pusat%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2010310!5e0!3m2!1sid!2sid!4v1664380625208!5m2!1sid!2sid
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_686B092D_7EC9_D622_41D8_6604E1ABA189.text = KEMBALI KE NAVIGASI
+
+## Media
+
+### Audio
+audiores_733A16A4_7DFB_BA23_41C9_21953C76E7EF.mp3Url = media/audio_73BF1761_7DFB_7A25_41DB_A748213D490F_en.mp3
+
+### Image
+imlevel_BFFF1C78_A75F_6EC9_41D8_631ABA819AF0.url = media/panorama_71652AF8_7DC9_4A22_41D5_8DC0A77567A5_HS_1h2o8qul_en.png
+
+### Title
+panorama_71652AF8_7DC9_4A22_41D5_8DC0A77567A5.label = BOOTH
+
+## Skin
+
+### Image
+Image_D71787C9_8458_2B08_41D3_1C5DA0032110.url = skin/Image_D71787C9_8458_2B08_41D3_1C5DA0032110_en.png
+
+## Tour
+
+### Description
+tour.description = Profesi Keuangan Expo 2022
+
+### Title
+tour.name = IAI

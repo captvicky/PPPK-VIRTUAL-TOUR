@@ -1,0 +1,47 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_C5AA9F10_835D_7A28_4197_20C115115AC6.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_C72921E6_835D_49E8_41DA_5E38377AC8BA.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_D2F83597_837C_CE28_41C3_7C288D06FBD5.source = https://rebrand.ly/calendlyperaki
+WebFrame_C5BC466B_8355_4AF8_41D5_573E71001CBE.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d247.9025603110854!2d106.878856!3d-6.205418!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe82c606368332372!2zNsKwMTInMTkuNiJTIDEwNsKwNTInNDQuMSJF!5e0!3m2!1sid!2sus!4v1664364310624!5m2!1sid!2sus
+LinkBehaviour_B623CC20_8820_DEB4_41DF_1BB5AEC7BB90.source = https://www.peraki.org/
+LinkBehaviour_C593D702_8355_CA28_41DB_0B1D8EA566AC.source = https://www.peraki.org/
+LinkBehaviour_B7218CF1_8820_DF95_41C5_5D178CAC71FD.source = https://www.peraki.org/
+WebFrame_C9853F2C_8820_DAB3_41D6_69A97662533F.url = https://www.peraki.org/
+LinkBehaviour_C4702180_8355_4628_41CB_5CA12A28A8D8.source = https://www.peraki.org/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_C570B5D5_835F_CE28_41DA_7C49638F93D6.text = KEMBALI KE NAVIGASI
+
+## Media
+
+### Audio
+audiores_C9587980_8354_C628_41C9_419A4CA8B700.mp3Url = media/audio_C9220BAA_8357_5A78_41DC_685E4A61D1CF_en.mp3
+audiores_C96E3E50_8354_FA28_41D5_264EB895F81F.mp3Url = media/audio_CBCC0E5D_8355_3AD8_41CD_42E0376F0F6C_en.mp3
+
+### Image
+imlevel_B0C328D5_A74F_B7D8_41C4_76008DF444EE.url = media/panorama_BEAA5D2B_83B4_DE78_41DE_29F6D6D4E20A_HS_e6lax7r4_en.png
+
+### Title
+panorama_BEAA5D2B_83B4_DE78_41DE_29F6D6D4E20A.label = booth
+
+## Skin
+
+### Image
+Image_BC31B7F3_83B4_C9E8_41C0_513DCB634BC8.url = skin/Image_BC31B7F3_83B4_C9E8_41C0_513DCB634BC8_en.png
+Image_BC7818D0_834F_4628_41D5_7893AFE197B3.url = skin/Image_BC7818D0_834F_4628_41D5_7893AFE197B3_en.png
+Image_BCCDBDA7_834C_FE68_41AD_8DC94072C320.url = skin/Image_BCCDBDA7_834C_FE68_41AD_8DC94072C320_en.png
+Image_CEBCB1E6_8374_C9E8_41B2_A4077B5E5B58.url = skin/Image_CEBCB1E6_8374_C9E8_41B2_A4077B5E5B58_en.png
+
+## Tour
+
+### Description
+tour.description = Profesi Keuangan Expo 2022
+
+### Title
+tour.name = PERAKI

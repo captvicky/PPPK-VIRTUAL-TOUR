@@ -1,0 +1,46 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_F51CF150_8428_2719_41D7_B715D6129E3F.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_F4E5C469_8428_6D08_41CF_31251DCB6086.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_E532A518_8468_6F08_41DA_1CBD178092E4.source = https://rebrand.ly/calendlyp3kpi
+WebFrame_ECEF9FEE_8458_FB09_41CB_0147E8531A0B.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.399688501404!2d106.81435062299948!3d-6.210899281122956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5aeb34c6375%3A0xddbd285cf2ff8f8d!2sSahid%20Sudirman%20Centre!5e0!3m2!1sid!2sid!4v1664382101798!5m2!1sid!2sid
+WebFrame_E767F784_8458_2BF8_41DF_2037341414C1.url = https://www.p3kpi.or.id/
+PopupWebFrameBehaviour_2303C3EA_A291_04A7_41B0_93E3BEDE39D0.url = //www.youtube.com/embed/UxEpx-Emedg
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_EA586FC3_8428_3B78_41DD_124111B6810D.text = KEMBALI KE EXHIBITION
+
+### URL
+overlay_2741ED9A_A291_FD67_41E1_DDD725F1FE74.url = //www.youtube.com/embed/nmtT3NTwnw4
+
+## Media
+
+### Audio
+audiores_EBDDE477_8458_2D18_41CD_068F04A47C67.mp3Url = media/audio_E3277616_8458_2D18_41CC_67E429A6383C_en.mp3
+audiores_E816C615_8428_2D18_41DF_F31DB7EA103B.mp3Url = media/audio_EF9DD768_8458_EB08_41CE_9F30C73C31E7_en.mp3
+
+### Image
+imlevel_DC61E02C_A291_03A3_41C2_44DC891F238D.url = media/panorama_2741FD9A_A291_FD67_41E1_351ACB9D6CE1_HS_evetf68y_en.png
+imlevel_DC6D9FEF_A291_7CBD_41D2_DE810A9B46B0.url = media/popup_B1182302_8821_AA77_41DD_0DE4DF9A71F3_en_0_0.jpg
+
+### Popup Image
+
+### Title
+panorama_2741FD9A_A291_FD67_41E1_351ACB9D6CE1.label = booth
+
+## Skin
+
+### Image
+Image_E650A97A_8468_2709_41CF_E09D10200004.url = skin/Image_E650A97A_8468_2709_41CF_E09D10200004_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = P3KPI

@@ -1,0 +1,47 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_CD144CB6_A293_1CAF_41DF_097ECA947319.source = http://pppk.kemenkeu.go.id/
+WebFrame_6ACBB3C7_7F3A_3364_41BD_6E711E2E02BD.url = https://bja-firebase.web.app/hori.html
+WebFrame_5DF2D26B_7F66_2D23_41C4_90B74FB358F9.url = https://bja-firebase.web.app/medsos-pppk.html
+LinkBehaviour_500662D5_7FD9_5A62_41D3_14876152D421.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_4C0390A7_7FD9_562E_41DA_88396808924A.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_509F1D37_7E49_4E2D_41C2_71E1C454BE6C.source = https://pppk.kemenkeu.go.id/in/page/proksi
+LinkBehaviour_52D2ECC8_7E4F_4E63_41D3_415C6F244013.source = https://pppk.kemenkeu.go.id/in/page/proksi
+LinkBehaviour_9495094F_83CB_4638_41DE_9B9B4AC9CACC.source = https://rebrand.ly/calendlypppk
+WebFrame_C9C63047_A291_03ED_41D8_1C23F71E7B12.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.6926405869312!2d106.83558831470879!3d-6.171891995531684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f591b2861195%3A0xed99cb79f84c9839!2sPusat%20Pembinaan%20Profesi%20Keuangan!5e0!3m2!1sid!2sid!4v1664901141800!5m2!1sid!2sid
+WebFrame_6BED02FA_7F26_2D2D_41A7_734525AB79FF.url = //www.youtube.com/embed/pTQhUgzuyfA
+WebFrame_6BB4A8FC_7F2E_1D24_41DB_C500B0DD8CA7.url = //www.youtube.com/embed/uKHxCT5eq8w
+PopupWebFrameBehaviour_524B833C_7E5F_BA22_41DB_13731A225642.url = //www.youtube.com/embed/uKHxCT5eq8w
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_51A224AA_7FC8_BE27_41CC_3ABCD66397D7.text = KEMBALI KE NAVIGASI
+
+## Media
+
+### Audio
+audiores_604D0856_7F1E_3D64_41D7_140CD44C5B8E.mp3Url = media/audio_60B18F48_7F1A_136C_41C2_27E74828A67E_en.mp3
+
+### Image
+imlevel_D9EBC8E3_A291_04A6_41A8_20D966FC9FB7.url = media/panorama_5270970B_7E49_5BE6_41DD_039C98AF7997_HS_nbo0drex_en.png
+
+### Title
+panorama_5270970B_7E49_5BE6_41DD_039C98AF7997.label = booth
+
+## Skin
+
+### Image
+Image_5785CEA4_7F6A_1524_41C8_C09BEC0ECCCF.url = skin/Image_5785CEA4_7F6A_1524_41C8_C09BEC0ECCCF_en.png
+Image_9007730D_83DD_4A38_41CF_CAF04BCF2549.url = skin/Image_9007730D_83DD_4A38_41CF_CAF04BCF2549_en.png
+
+## Tour
+
+### Description
+tour.description = Profesi Keuangan Expo
+
+### Title
+tour.name = PPPK

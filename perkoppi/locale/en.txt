@@ -1,0 +1,47 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_F2330173_A2B3_05A5_41DA_CF560D0EAD6D.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_EC494CA9_A2B3_3CA5_41E0_6FD1A22039DE.source = https://home.profesikeuanganexpo.id/#/url/168
+WebFrame_700850BE_7FEC_4D10_4189_C86410B7D7CA.url = https://perkoppi.or.id/
+WebFrame_6BCB86A1_7FF4_7531_41DB_1B3354FB0F4E.url = https://perkoppi.or.id/daftar
+WebFrame_6C86F465_7FF5_D536_41C8_01EC753C5643.url = https://perkoppi.or.id/daftar
+LinkBehaviour_B883F399_83B5_4A58_41A8_8DB589739EB8.source = https://rebrand.ly/calendlyperkoppi
+WebFrame_A02B9844_802C_5D76_41DE_B81F29548F56.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1983.3348217360267!2d106.78777106774477!3d-6.17496299530763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f65ee1c07a31%3A0x2c4c67f4d94e8e65!2sNeo%20Soho%20Central%20Park!5e0!3m2!1sid!2sid!4v1664300628104!5m2!1sid!2sid
+LinkBehaviour_67E3C123_7FED_CF31_41C6_8CF9F7BF3277.source = https://www.instagram.com/perkoppi.pusat/
+LinkBehaviour_686414D6_7FEC_3513_41CB_D0563910C708.source = https://www.instagram.com/perkoppi.pusat/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_EC0CFBB0_A2B7_04A2_41E0_10B884AB48A8.text = KEMBALI KE NAVIGASI
+
+### URL
+overlay_DD39564C_A29F_0FE2_41D6_5E7605A53A0B.url = //www.youtube.com/embed/_TaEQKRcljE
+
+## Media
+
+### Audio
+audiores_9A02E92F_8014_5F32_41D4_EDA6DDFD8659.mp3Url = media/audio_98DC7D95_8014_5711_41D6_1ED83199DD9B_en.mp3
+audiores_99FA2470_8014_552E_41D2_C5655924036D.mp3Url = media/audio_9A147335_8014_3311_41DA_AFFBC20BCF84_en.mp3
+audiores_9EC32A23_8014_7D31_41B9_C46DEF31523D.mp3Url = media/audio_9D18866B_8014_5532_41C4_C9E533ED9FD2_en.mp3
+
+### Image
+imlevel_DCAE2280_A29F_0763_41DD_7B436291A473.url = media/panorama_DD38E64C_A29F_0FE2_41DC_4F7D07FCEC21_HS_n4hds5z8_en.png
+
+### Title
+panorama_DD38E64C_A29F_0FE2_41DC_4F7D07FCEC21.label = booth
+
+## Skin
+
+### Image
+Image_BF38D0D8_83B7_47D8_41DE_4DBF4F28F655.url = skin/Image_BF38D0D8_83B7_47D8_41DE_4DBF4F28F655_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = PERKOPPI

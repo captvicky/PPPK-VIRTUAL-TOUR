@@ -1,0 +1,45 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_EBDB9B62_8820_DAB7_41D3_9DF0C7A7F96C.source = http://lspta.or.id/
+WebFrame_43C2F13F_7F3E_EF23_41D9_5E1F19DB6D97.url = https://drive.google.com/file/d/1HFH_4L4rOubZOmXJY3UeNTv-IJLSIDSe/preview
+LinkBehaviour_6BB4A4D9_7E39_DE62_41DB_5EB9E252E828.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_68110832_7E39_D626_41C5_316DF582D882.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_9FDCC99D_8FBB_8C9B_41CB_AFB7F90383B0.source = https://qubicevent.com/
+LinkBehaviour_AE56CF48_83D5_3A38_41C6_6389ED16212E.source = https://rebrand.ly/calendlylspta
+WebFrame_4028EDF8_7F26_372D_41C9_254C2A047405.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.3427053417004!2d106.88175381499828!3d-6.349655195405067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ece8c77707e7%3A0x7500841cdd7e6edd!2sLSP%20TEKNISI%20AKUNTANSI!5e0!3m2!1sid!2sid!4v1664288856154!5m2!1sid!2sid
+WebFrame_464AF8B8_7F39_FD2D_41C4_E19E77880FE5.url = //www.youtube.com/embed/ItC2R5wZrdA
+WebFrame_4685F70F_7F3A_14E3_41B6_C7A35B392A89.url = //www.youtube.com/embed/_u6LXLlEFiE
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_6B942279_7E3B_5A25_41D2_39FE71B33A06.text = KEMBALI KE NAVIGASI
+QuadHotspotPanoramaOverlayTextImage_3717D341_7FEE_335C_41C1_598D0ED0B263.text = PROFESI KEUANGAN EXPO 2022
+
+## Media
+
+### Audio
+audiores_74F017EF_7AD1_97B4_41D4_1EBF472DF2DF.mp3Url = media/audio_75E9DB5E_7AD1_9894_41C4_06F6B67FAC80_en.mp3
+
+### Image
+imlevel_B0D57149_A74D_76C8_41D2_6AD98D999908.url = media/panorama_ED67C3B4_8820_E993_41E0_8151BDFF2A86_HS_697djjcg_en.png
+imlevel_E1212B5D_8821_BA8D_41D6_6C6ABA59DF76.url = media/panorama_ED67C3B4_8820_E993_41E0_8151BDFF2A86_HS_oukttw2r_en.png
+
+### Title
+panorama_ED67C3B4_8820_E993_41E0_8151BDFF2A86.label = LSPTA
+
+## Skin
+
+### Image
+Image_81480C7A_8FBF_8B98_41DC_A5E22A622B6D.url = skin/Image_81480C7A_8FBF_8B98_41DC_A5E22A622B6D_en.png
+Image_AE7DE07F_83DC_C6D8_41AD_7DE0ADC6DF7D.url = skin/Image_AE7DE07F_83DC_C6D8_41AD_7DE0ADC6DF7D_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = LSPTA

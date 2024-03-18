@@ -1,0 +1,52 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_2B3D25D7_A2B3_0CED_41E2_3E97FA6BF021.source = http://taplink.cc/iapi_official
+LinkBehaviour_EF06F2D9_8867_6B95_41DA_1FED1E85681B.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_D4546B26_8860_DABF_41D9_806B411F5472.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_D02D9BE0_8863_59B3_41D4_A04FA8ED0642.source = https://iapi.or.id/
+LinkBehaviour_2529ABE6_A2B1_04AF_41CA_CDD3D2552DE8.source = https://iapi.or.id/jalur-reguler/
+LinkBehaviour_27E8541E_A2B7_039C_41E0_80A4D5FCD3B0.source = https://iapi.or.id/jalur-reguler/
+LinkBehaviour_C36D3731_8820_AA95_41D0_18376EF967E3.source = https://rebrand.ly/calendlyiapi
+WebFrame_D2498083_8863_E675_41D8_5DDBF9D16D42.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.139357051932!2d106.7965176!3d-6.2453594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f16cf1f19871%3A0x7f73b456fb7e296d!2sInstitut%20Akuntan%20Publik%20Indonesia!5e0!3m2!1sid!2sid!4v1664902738092!5m2!1sid!2sid
+PopupWebFrameBehaviour_2072483D_A2B3_039D_41D7_673DD27C64BD.url = //www.youtube.com/embed/8Yjqc_Lox-0?v=8Yjqc_Lox-0&list=PLfDW7Z6mhUA0XIUz9QmrYoPkqCRqwmSCd&index=12
+PopupWebFrameBehaviour_311711B5_A2B1_04A2_41E4_311794C68D8B.url = //www.youtube.com/embed/9l2FSMk7RaE?v=9l2FSMk7RaE&list=PLfDW7Z6mhUA0XIUz9QmrYoPkqCRqwmSCd&index=11
+WebFrame_D8CC5A9A_8863_BB97_41D2_B5D3D2B953BE.url = //www.youtube.com/embed/BMRnjTLaj6M?v=BMRnjTLaj6M&list=PLfDW7Z6mhUA0XIUz9QmrYoPkqCRqwmSCd&index=3
+WebFrame_26968482_A2B3_0366_41E4_79411D8F075B.url = //www.youtube.com/embed/KPOfG1hxK8E?v=KPOfG1hxK8E&list=PLfDW7Z6mhUA0XIUz9QmrYoPkqCRqwmSCd&index=9
+WebFrame_27D89382_A2B3_0566_4193_04EF7EF7F509.url = //www.youtube.com/embed/PFTDVE_pYEE?v=PFTDVE_pYEE&list=PLfDW7Z6mhUA0XIUz9QmrYoPkqCRqwmSCd&index=5
+WebFrame_25E52BCA_A2B3_04E7_41E0_A8E86DCBBE5B.url = //www.youtube.com/embed/tVgYgfLIcMw?v=tVgYgfLIcMw&list=PLfDW7Z6mhUA0XIUz9QmrYoPkqCRqwmSCd&index=10
+PopupWebFrameBehaviour_2EB53A49_A2B3_07E5_41E3_65D31094A5BA.url = //www.youtube.com/embed/tvCcZkmtwDI?v=tvCcZkmtwDI&list=PLfDW7Z6mhUA0XIUz9QmrYoPkqCRqwmSCd&index=2&t=2s
+WebFrame_C61D95BE_8820_A98F_41CF_696FED148FF1.url = //www.youtube.com/embed/kpGSE61AC7M
+WebFrame_DCB0C0D1_A2B1_04E5_41DC_2DB535B38F5C.url = //www.youtube.com/embed/nwM5peaoVeM
+WebFrame_DB1E8BB9_8860_D995_41D6_FEAA7D6F87B6.url = //www.youtube.com/embed/tvCcZkmtwDI
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_E9D6E4B5_8861_AF9D_41A5_3FBBE5C5E923.text = KEMBALI KE NAVIGASI
+
+## Media
+
+### Audio
+audiores_D47248CC_887F_A7F3_41D4_B5BC4DF7F25F.mp3Url = media/audio_D0853BD9_8860_B995_41E0_C8460E52FDEA_en.mp3
+audiores_D6E30656_8860_AA9C_4190_468F54B10B3D.mp3Url = media/audio_D452FEA0_887F_5BB3_41DB_E4F366C4956D_en.mp3
+
+### Image
+imlevel_DE705F3F_A2AF_1D9E_41E1_A910BDB0E1D6.url = media/panorama_C211D677_882F_6A9D_41CD_B2B6C5CCC2FA_HS_9clutk13_en.png
+
+### Title
+panorama_C211D677_882F_6A9D_41CD_B2B6C5CCC2FA.label = booth
+
+## Skin
+
+### Image
+Image_C29DE4DE_8827_AF8F_41B9_13D80E6232B5.url = skin/Image_C29DE4DE_8827_AF8F_41B9_13D80E6232B5_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = IAPI

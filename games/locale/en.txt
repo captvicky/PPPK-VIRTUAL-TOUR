@@ -1,0 +1,200 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_56DBFD9C_70DE_2C8B_41D3_27BE5EA90E04.source = https://home.profesikeuanganexpo.id/#/home
+LinkBehaviour_55DDDF88_70DE_EC8B_41BA_99B92B67E2DE.source = https://home.profesikeuanganexpo.id/#/home
+WebFrame_ACB3D523_A293_0DA5_41E3_3DAA0193854E.url = https://quiz.profesikeuanganexpo.id/
+WebFrame_50D20ADB_704E_348C_41D5_0A7F86367593.url = https://tour.kemenkeu.go.id/
+LinkBehaviour_58202711_70CE_3D9D_41CD_E144FF08492F.source = https://tour.kemenkeu.go.id/
+LinkBehaviour_573F7AAF_70CF_F485_41CD_57E0FB3BF850.source = https://tour.kemenkeu.go.id/
+
+## E-Learning
+
+### Answer
+questionOption_64AE4AAA_7055_F48C_41BA_B7D4E271F3BD.text = Akutansi
+questionOption_69D2408B_7075_D48C_41BB_B271F7902A04.text = Astronot
+questionOption_67F498FB_704E_548D_41CF_8FF63DD83167.text = Bekerja
+questionOption_662F616B_7057_D58D_41D9_80411DE6CED4.text = Berdasarkan kisah orang lain
+questionOption_7FBEAE24_7036_2FBB_41CC_C4A6A02635FD.text = Berdebat
+questionOption_653B9395_7053_D485_41D2_5FEB7AC36537.text = Berhitung dengan sangat cepat
+questionOption_697F542C_704D_D38B_41C2_934B7C448F52.text = Berkumpul bersama teman atau keluarga
+questionOption_6005C083_7036_737D_41CF_8B0A82733D32.text = Bermain Game Detektif
+questionOption_7F78330C_7036_558B_41B9_946ACA9283C0.text = Bermain Rubik's Cube
+questionOption_688CA8E1_704E_54BC_41A5_CEF5E6A886FE.text = Bermain peran (role-playing games) 
+questionOption_68EB8159_7052_758D_41BD_6E88AC00D84D.text = Berolahraga
+questionOption_67C98719_7056_DD8D_41BE_1E7F840FBA0A.text = Berupa sindiran
+questionOption_6526C93F_7052_5585_41A4_E0822F3776F9.text = Bimbingan Konseling
+questionOption_67757ABE_7052_3487_41B3_BAD36E370121.text = Biru
+questionOption_60495AEE_7032_5487_41CE_12F9255E9895.text = Dekisugi
+questionOption_69F26489_7076_3C8C_41D5_A761496F3D2F.text = Dokter
+questionOption_685FB88F_7056_5485_41D5_A311FA29BAA8.text = Dompet atau Handphone tertinggal saat keluar rumah
+questionOption_600FBA72_7035_D79F_41D2_1E4C3BFE1064.text = Doraemon
+questionOption_657E8137_7052_7585_41CA_E64615943439.text = Ekonomi
+questionOption_6703A7FF_7052_5C85_41D9_2F1712A6619E.text = Hijau
+questionOption_63FA3156_7056_7587_41B9_36A2C751E4AE.text = Home Alone
+questionOption_69023390_7075_D49C_41AC_19E7FDFB3E41.text = Ilmuwan
+questionOption_677D0598_7052_FC8B_41D6_D6F39D3632B4.text = Komunikatif
+questionOption_676DE8E5_7053_D485_41B6_30C8D89FC3A2.text = Kuning
+questionOption_67FF09AC_7056_D48B_41CA_55E3339EE3C1.text = Melihat persimpangan ketika berkendara dengan bantuan Google Maps 
+questionOption_66D246FE_7053_DC87_41A7_CF0FC5521AC0.text = Memerlukan analisis
+questionOption_6772AA9D_7056_3485_41CD_35E910FC8920.text = Memiliki cerita yang runtut
+questionOption_67F7C549_7056_5D8D_41CD_9C66844EFD6D.text = Memiliki sebab akibat
+questionOption_665DB08E_705D_F487_41C1_0615E17946D5.text = Menaksir harga barang
+questionOption_6627AC73_7052_739C_41D3_2BF69EAC49FD.text = Mencari jalan keluar dari masalah
+questionOption_6675549D_7052_3C85_41CB_3482E1F95D5D.text = Mencari pola sebab akibat
+questionOption_65A4159C_705E_3C8B_41BA_C80362C30C3F.text = Mencatat
+questionOption_658F1E9B_7052_6C8D_41C6_2F4FB0F18EF5.text = Mengerti apa yang kamu pikirkan 
+questionOption_668DBFEB_7052_6C8C_41C3_79FAAE1DA8DC.text = Menghidari risiko
+questionOption_7F9CC7F2_7037_FC9F_4196_FC80054E610C.text = Menonton Film
+questionOption_67389B40_7052_35FB_41D7_3A5CFA334CFD.text = Menyelidiki sesuatu
+questionOption_6680A9F1_7053_F49D_41C9_F136E4D00873.text = Merah
+questionOption_66D6E535_7055_DD85_41CD_377E840162D7.text = Motor atau mobil tiba-tiba tidak bisa digunakan
+questionOption_657375B7_7052_5C85_41C1_68D7766A5945.text = Mudah memutuskan tempat makan
+questionOption_7FB418FE_7032_D487_41C6_6B219A41147A.text = Nobita
+questionOption_6992A61D_7076_5F85_41D7_E1CF2840C99E.text = Pengacara
+questionOption_69C3984C_704E_338B_41C8_FFEEC112DF88.text = Permainan sederhana yang bisa dilakukan semua umur 
+questionOption_69737410_704E_339C_41D0_4FEBEAF9E8C6.text = Permainan yang mengasah pikiran seperti catur atau Sudoku 
+questionOption_68C13D92_7076_2C9F_41B6_994CFD15FD28.text = Pilot
+questionOption_66257133_705E_D59D_41CE_5A47889B00BD.text = Saya dapat berhitung dengan cepat dan tepat 
+questionOption_65C3B55D_705F_DD85_41BD_1AAA81A2B8B7.text = Saya dapat membantu menyelesaikan masalah yang dialami orang sekitar saya 
+questionOption_65744BF9_705E_348D_41A1_66BDA3D72590.text = Saya dapat mendamaikan pihak yang bertengkar hingga damai 
+questionOption_6640C199_705E_548D_41C3_5920770CF517.text = Saya dapat menilai seseorang dari penampilan luarnya 
+questionOption_68C30D6C_7072_6D8B_41B8_5F8650949F07.text = Saya lebih suka bekerja independen untuk diri sendiri 
+questionOption_680D9611_7072_FF9D_41D4_B3F0A43FA056.text = Saya tidak masalah asalkan saya mendapatkan benefit 
+questionOption_67BE3C98_704E_2C8B_41C0_8AF1C3B53A00.text = Saya tidak suka bermain
+questionOption_655BD93B_7052_358D_41B6_95FF10B2DB48.text = Sejarah
+questionOption_609F6B6D_7032_5585_41D8_74589A73A820.text = Sizuka
+questionOption_664E786D_7052_D385_41D3_523F7DBAACA3.text = Taat peraturan lalu lintas
+questionOption_6743BB00_7052_357B_41AE_441B823CD340.text = Tegas dan tepat
+questionOption_662CB548_7053_DD8B_41BA_02D09CEFF569.text = Terjadwal
+questionOption_66A003D6_7052_5484_41C1_C12F65C089BE.text = Terlambat melakukan presensi kerja atau submit pekerjaan
+questionOption_6547648A_7056_DC8F_41CB_7C3BA7828EF1.text = The Accountant 
+questionOption_64183F98_7056_2C8B_41D5_534C76DA68FC.text = The Auction
+questionOption_64E4D908_7056_358B_417D_C85681ABED99.text = The Tax Collector
+questionOption_68A75012_704D_D39F_41D5_0D0F0858185A.text = Tidur
+questionOption_6465978A_7056_3C8F_4141_8E5EC2C4A8F4.text = Titanic
+questionOption_693DC69F_7072_3C85_41CB_91252A4F7F4F.text = Ya, saya suka bekerja pada orang lain 
+questionOption_685A5962_7072_55BF_41CE_C6EFE573D8B1.text = Ya, tapi hanya jika saya yang menjadi pimpinannya 
+questionOption_64055A00_7057_F77B_41A6_2F312FF5A930.text = Yes Man
+
+### Qualification
+calification_A8CE1FBB_8863_F995_41D1_CC6EAA5FD6F7.text = AHLI PABEAN
+calification_A8F2FB55_8861_5A9D_41DD_F6181DD905B4.text = AKTUARIS
+calification_A92B2A13_8861_7A95_41BF_C3D4A810A1E5.text = AKUNTAN
+calification_A8733019_8860_E695_41C1_8677AC024D89.text = KONSULTAN PAJAK
+calification_A81C80FA_8863_A797_41DC_E17441A9559D.text = PEJABAT LELANG
+calification_A93EF59B_8860_A995_41D8_D7A99F425867.text = PENILAI
+
+### Question
+question_65EE731D_705E_3585_41AA_EDD9A6C9C937.title = Aku dapat menyelesaikan pekerjaan …. dalam waktu yang sangat cepat.
+question_64D13B34_7056_559B_41D4_80F8D490BA04.title = Apa pelajaran yang paling kamu sukai sewaktu bersekolah?
+question_697823E0_704E_34BB_41D8_8B59242D1E8B.title = Apakah kamu suka bekerja dengan sistem dan hal-hal terkait organisasi?
+question_681B2A94_7052_D49B_41D1_AA965533BD53.title = Bagaimana kamu menghabiskan waktu di akhir minggu?
+question_68994274_7072_5784_41A7_1ECE6C01A9DD.title = Cita-cita saya sewaktu masih di Sekolah Dasar (SD) adalah …
+question_68C3445F_7052_5384_41D1_F01770CCE8EC.title = Dari warna-warna berikut, saya lebih menyukai warna …
+question_673AF846_7056_7387_41A4_8010E2966965.title = Hal yang menakutkan bagi saya adalah hal-hal berikut, kecuali …
+question_68FC6912_704E_F59F_41D5_5CA4E816FCDB.title = Jenis permainan apa yang kamu sukai?
+question_64B5108F_7052_3485_41B0_A7BF44E701F5.title = Mana tipe sahabat yang paling kamu sukai?
+question_64F35909_7055_F58D_41D9_C99361D8CFBA.title = Manakah diantara film berikut yang menurutmu paling menarik?
+question_7FE2C801_7036_537D_416A_8C6BDCF6F586.title = Manakah karakter berikut yang paling kamu idolakan?
+question_7F5D040C_7032_538B_41DA_472050370BBB.title = Manakah kegiatan berikut yang paling kamu sukai?
+question_65825D7B_7052_2D8D_41CC_DB76301E5831.title = Manakah yang paling menggambarkan pribadimu?
+question_666CA9E8_7052_348B_41D8_F917645AB791.title = Saya lebih menyukai pekerjaan yang …
+question_6747A487_7056_5C85_41D0_F8016C02EE30.title = Saya menyukai komedi atau lelucon yang …
+
+### Question Screen
+quizQuestion_6291871E_6DED_E858_41CE_18DBB87A900F.ok = OK
+
+### Report Screen
+quizScore_6293B71E_6DED_E858_41D7_6F3E73268BF7.title = - SCORE -
+quizScore_6293B71E_6DED_E858_41D7_6F3E73268BF7.completion = Completed
+quizScore_6293B71E_6DED_E858_41D7_6F3E73268BF7.questionsCorrect = Correct
+quizScore_6293B71E_6DED_E858_41D7_6F3E73268BF7.downloadCSV = Download .csv
+quizScore_6293B71E_6DED_E858_41D7_6F3E73268BF7.questionsIncorrect = Incorrect
+quizScore_6293B71E_6DED_E858_41D7_6F3E73268BF7.items = Items Found
+quizScore_6293B71E_6DED_E858_41D7_6F3E73268BF7.questions = Questions
+quizScore_6293B71E_6DED_E858_41D7_6F3E73268BF7.repeat = Repeat
+quizScore_6293B71E_6DED_E858_41D7_6F3E73268BF7.description = SELAMAT ANDA COCOK MENJADI
+quizScore_6293B71E_6DED_E858_41D7_6F3E73268BF7.submitToLMS = Submit
+quizScore_6293B71E_6DED_E858_41D7_6F3E73268BF7.elapsedTime = Time
+
+### Score Name
+score1.label = Score Anda
+
+### Timeout Screen
+quizTimeout_6291871D_6DED_E858_41D5_C193685F9E23.title = - TIMEOUT -
+quizTimeout_6291871D_6DED_E858_41D5_C193685F9E23.repeat = Repeat
+quizTimeout_6291871D_6DED_E858_41D5_C193685F9E23.score = View Score
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_B8D355FA_A2B7_0CA7_41C2_0A3797F471FC.text = KEMBALI KE GAMES
+HotspotPanoramaOverlayTextImage_5639A49E_70D3_DC87_41D4_6C828F68329B.text = KEMBALI KE LOBBY EVENT
+HotspotPanoramaOverlayTextImage_55427711_70D6_3D9D_41D7_D44290C4703B.text = VIRTUAL TOUR KEMENTERIAN KEUANGAN
+
+## Media
+
+### Audio
+audiores_923313E1_8823_A9B4_41CD_19C0F580437D.mp3Url = media/audio_9E261E3A_883F_5A97_41C4_12C60BF2E0E4_en.mp3
+audiores_BA599A00_A2B1_0763_41E4_2CB6CC867CF7.mp3Url = media/audio_B576C2EF_A2B1_04BE_41B3_9333C94D1FA1_en.mp3
+
+### Image
+imlevel_88CF9D24_A291_1DA3_41B2_9DCE06AE8ED0.url = media/panorama_618C5447_6DEA_E829_41D7_39CA74B03900_HS_38xzq6xr_en.png
+imlevel_88D18C59_A291_03E2_41DA_425B47C7DD30.url = media/panorama_618C5447_6DEA_E829_41D7_39CA74B03900_HS_gnwh85mk_en.png
+imlevel_88D00CD2_A291_1CE6_41CF_B1E66F5E7E88.url = media/panorama_618C5447_6DEA_E829_41D7_39CA74B03900_HS_vggtnore_en.png
+
+### Title
+video_AB7AEF5D_8861_BA8C_41BD_3733630DDBB9.label = congrulation video
+panorama_618C5447_6DEA_E829_41D7_39CA74B03900.label = gunung
+
+
+### Video
+videolevel_BC3EEB86_A74A_AA38_41A2_57E085579501.url = media/video_AB7AEF5D_8861_BA8C_41BD_3733630DDBB9_en.mp4
+videolevel_BC3EEB86_A74A_AA38_41A2_57E085579501.posterURL = media/video_AB7AEF5D_8861_BA8C_41BD_3733630DDBB9_poster_en.jpg
+
+## Skin
+
+### Button
+Button_616EFC19_703E_538D_41C8_2D82DF8BC17C.label = AYO MULAI
+Button_B237FFC6_A291_7CEF_41D2_012D3664684D.label = MATCH MAKING
+Button_B37BFA00_A291_0762_41E0_CA8BC21EDDC4.label = QUIZ
+
+### Image
+Image_657E87C8_704E_3C8B_41D7_86D82721AC88.url = skin/Image_657E87C8_704E_3C8B_41D7_86D82721AC88_en.png
+Image_8138C5EF_A291_0CBD_4196_988F618CA183.url = skin/Image_8138C5EF_A291_0CBD_4196_988F618CA183_en.png
+Image_925849E0_8821_59B3_41DA_8F093FC41D7E.url = skin/Image_925849E0_8821_59B3_41DA_8F093FC41D7E_en.png
+Image_925A89DF_8821_598D_41D1_E244745DF39B.url = skin/Image_925A89DF_8821_598D_41D1_E244745DF39B_en.png
+Image_927CD7B9_8820_A995_41D2_0A21C0C55309.url = skin/Image_927CD7B9_8820_A995_41D2_0A21C0C55309_en.png
+Image_927E77BF_8820_A98D_41C1_3424827A90D5.url = skin/Image_927E77BF_8820_A98D_41C1_3424827A90D5_en.png
+Image_92878D07_8821_5E7C_41D7_CEF11A98791F.url = skin/Image_92878D07_8821_5E7C_41D7_CEF11A98791F_en.png
+Image_92994D01_8821_5E74_41D4_52C704745313.url = skin/Image_92994D01_8821_5E74_41D4_52C704745313_en.png
+Image_929B4127_87DF_66BD_41CA_E7A0F59C5977.url = skin/Image_929B4127_87DF_66BD_41CA_E7A0F59C5977_en.png
+Image_92DA6525_882F_AEBD_41DE_906EE70B7D3B.url = skin/Image_92DA6525_882F_AEBD_41DE_906EE70B7D3B_en.png
+Image_92DBE279_8821_AA94_41DF_548D1885709F.url = skin/Image_92DBE279_8821_AA94_41DF_548D1885709F_en.png
+Image_92DC6524_882F_AEB3_41C1_D6592DB7B823.url = skin/Image_92DC6524_882F_AEB3_41C1_D6592DB7B823_en.png
+Image_92DDE27F_8821_AA8C_4176_9221C05C1FAB.url = skin/Image_92DDE27F_8821_AA8C_4176_9221C05C1FAB_en.png
+Image_95AD4BF4_87E3_B993_41D4_977CB5375189.url = skin/Image_95AD4BF4_87E3_B993_41D4_977CB5375189_en.png
+Image_AD3CCF38_A29F_FDA3_4191_5E6FB24CF708.url = skin/Image_AD3CCF38_A29F_FDA3_4191_5E6FB24CF708_en.png
+
+### Label
+Label_A2CEFE9C_8860_BB93_41CB_EAA0F343879F.text = LANJUT
+Label_805F006E_A291_03BE_41B0_67DDE6BF8774.text = LOADING, MOHON MENUNGGU
+
+### Multiline Text
+HTMLText_B34E1EDD_A293_3C9D_41E3_B9A31FC5E4A3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000033;font-size:33px;"><B>GAMES</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000033;font-size:33px;"><B>PROFESI KEUANGAN EXPO 2022</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:17px;font-family:'Roboto';">Uji kemampuan anda dengan mengikuti Games Profesi Keuangan Expo yang telah kami Sediakan, Anda dapat memilih Games Match Making atau Quiz dengan klik salah satu tombol dibawah ini</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:17px;font-family:'Roboto';">Selamat Bermain!</SPAN></SPAN></DIV></div>
+HTMLText_92DEE282_8821_AA74_41D0_6E55AB089B78.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:35px;"><B>SELAMAT</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:35px;"><B>ANDA COCOK MENJADI</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:40px;font-family:'Roboto';"><B>"AHLI PABEAN"</B></SPAN></SPAN></DIV></div>
+HTMLText_94B49BBD_87E1_D98C_41D3_5D2AA23DF56F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:35px;"><B>SELAMAT</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:35px;"><B>ANDA COCOK MENJADI</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:40px;font-family:'Roboto';"><B>"AKTUARIS"</B></SPAN></SPAN></DIV></div>
+HTMLText_9258C9E1_8821_59B5_41BE_8943F91977C4.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:35px;"><B>SELAMAT</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:35px;"><B>ANDA COCOK MENJADI</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:40px;font-family:'Roboto';"><B>"AKUNTAN"</B></SPAN></SPAN></DIV></div>
+HTMLText_92846D0A_8821_5E74_41BC_DCC3384E5A1F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:35px;"><B>SELAMAT</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:35px;"><B>ANDA COCOK MENJADI</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:40px;font-family:'Roboto';"><B>"KONSULTAN PAJAK"</B></SPAN></SPAN></DIV></div>
+HTMLText_9270E7C3_8820_A9F5_41CF_E3AC96A65CE0.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:35px;"><B>SELAMAT</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:35px;"><B>ANDA COCOK MENJADI</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:40px;font-family:'Roboto';"><B>"PEJABAT LELANG"</B></SPAN></SPAN></DIV></div>
+HTMLText_92D90528_882F_AEB3_41CF_6328AD69F57B.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:35px;"><B>SELAMAT</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:35px;"><B>ANDA COCOK MENJADI</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:40px;font-family:'Roboto';"><B>"PENILAI"</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Games PPPK 2022

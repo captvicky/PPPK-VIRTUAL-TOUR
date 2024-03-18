@@ -1,0 +1,42 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_A38B58AB_8428_250F_41C1_B75461464A08.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_AE2343EA_8428_2B09_41B7_AF687225900D.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_9E3152FB_8428_650F_41E0_3D5B51765C75.source = https://rebrand.ly/calendlypai
+WebFrame_9A5DC8CC_8438_6509_41CC_DC1456841715.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15865.505513663198!2d106.81255483955077!3d-6.213992599999979!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f52571ea34f5%3A0xd06dc1320eeaa2f8!2sPersatuan%20Aktuaris%20Indonesia%20(PAI)!5e0!3m2!1sid!2sid!4v1664370674799!5m2!1sid!2sid
+LinkBehaviour_998AFA6A_843B_E509_41C6_D4E7C5B8947E.source = https://www.instagram.com/aktuarisindonesia/
+LinkBehaviour_A4015E5E_843F_FD08_41C2_36DB8E0B6CBD.source = https://www.instagram.com/aktuarisindonesia/
+LinkBehaviour_99410476_8438_2D19_41A2_09CC90B31BC2.source = https://www.youtube.com/channel/UCQkqb00rveCVruQhpyau0JQ
+LinkBehaviour_9B2D1B10_8438_1B18_41DC_DE5CEF34621B.source = https://www.youtube.com/channel/UCQkqb00rveCVruQhpyau0JQ
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_AC8C32A9_8428_650B_41D2_2A7AA816CB5C.text = KEMBALI KE NAVIGASI
+
+## Media
+
+### Audio
+audiores_A37493C8_8428_2B09_41D3_7C297136F33D.mp3Url = media/audio_A785A847_8438_E507_41B9_5D6492928AB2_en.mp3
+audiores_A3599852_8428_2519_41DC_626DAD138338.mp3Url = media/audio_A7E0203B_8428_650F_41E0_46D0F8E1A3A3_en.mp3
+
+### Image
+imlevel_F884F1C0_A291_04E2_41D2_6AEF541F4B2C.url = media/panorama_FB96B170_A291_05A3_41B8_1139C4C7CB09_HS_zim49cty_en.png
+
+### Title
+panorama_FB96B170_A291_05A3_41B8_1139C4C7CB09.label = PAI
+
+## Skin
+
+### Image
+Image_9D2858B5_8428_651B_41DC_49EE59DD759C.url = skin/Image_9D2858B5_8428_651B_41DC_49EE59DD759C_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = PAI

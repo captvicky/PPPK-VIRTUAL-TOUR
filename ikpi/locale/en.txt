@@ -1,0 +1,57 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_E2E56A06_84BD_3A28_41D4_91E7F9BB9E82.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_DAF2A4E8_84BD_CFF8_41D5_58CC5A85503E.source = https://home.profesikeuanganexpo.id/#/url/168
+PopupWebFrameBehaviour_D0B00E1D_835D_FA58_41BB_9AD814F45DF4.url = https://ikpi.or.id/
+WebFrame_DBCCCEC4_835B_7A28_41B1_D112607BB26A.url = https://ikpi.or.id/
+LinkBehaviour_E0536C74_84B5_3EE8_41DC_77BA660C5618.source = https://rebrand.ly/calendlyikpi
+WebFrame_D8E18B15_834B_3A28_41CC_2E5DEA32344C.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31727.256144146784!2d106.816803!3d-6.275955!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f3fd00000001%3A0x9d48f23b03d638fc!2sIkatan%20Konsultan%20Pajak%20Indonesia!5e0!3m2!1sid!2sid!4v1664366864324!5m2!1sid!2sid
+WebFrame_FBDFA51E_A2F7_0D9F_41E1_5CB1C329C8B6.url = //www.youtube.com/embed/6WPu5DAioT8
+WebFrame_FB3EF3F6_A2F7_04AF_41CF_2E50ABB29C0B.url = //www.youtube.com/embed/SVGsl4TTsCU
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_E60E92F0_84BF_4BE8_41DB_8CA8711694DC.text = KEMBALI KE NAVIGASI
+
+## Media
+
+### Audio
+audiores_DB65A92E_84BC_C678_41D4_5FDF3E280533.mp3Url = media/audio_DB1918D1_834F_C628_41BA_AAB5D8226FFB_en.mp3
+audiores_DB82CDF9_84BC_D9D8_41B2_832C83A7FE3C.mp3Url = media/audio_E45F54CE_84BB_CE38_41B9_F2FF3DD8208B_en.mp3
+
+### Image
+imlevel_CB3A7DDB_A2FF_1CE5_41C9_7154871F7F49.url = media/panorama_FBADCBA4_A2F1_04A3_41DD_8EEDFB3F8AD6_HS_c7bbqlhh_en.png
+imlevel_C44BB05D_A2F1_039D_41B8_0C15F60EAB28.url = media/popup_D1E7022B_835F_4A78_41B0_73090C87FB86_en_0_0.jpg
+imlevel_C44B905E_A2F1_039F_41B6_762D6483381A.url = media/popup_D1E7022B_835F_4A78_41B0_73090C87FB86_en_0_1.jpg
+imlevel_C44B705E_A2F1_039F_41D0_EA9365250B3F.url = media/popup_D1E7022B_835F_4A78_41B0_73090C87FB86_en_0_2.jpg
+imlevel_C44B605E_A2F1_039F_41E2_5AC0C171340F.url = media/popup_D1E7022B_835F_4A78_41B0_73090C87FB86_en_0_3.jpg
+imlevel_C44B405E_A2F1_039F_41D9_45E5085DE0A8.url = media/popup_D1E7022B_835F_4A78_41B0_73090C87FB86_en_0_4.jpg
+imlevel_C44B205E_A2F1_039F_41D3_1FCE43AA6CAB.url = media/popup_D1E7022B_835F_4A78_41B0_73090C87FB86_en_0_5.jpg
+imlevel_C5ED0338_A2F1_05A3_41B3_05B1BFBB9A83.url = media/popup_DB0DBF0E_835D_3A38_41DD_FD85AA2B28CB_en_0_0.jpg
+imlevel_C5ED2338_A2F1_05A3_41CE_0EC2A01385CB.url = media/popup_DB0DBF0E_835D_3A38_41DD_FD85AA2B28CB_en_0_1.jpg
+imlevel_C5ECC338_A2F1_05A3_41DD_3D362127D6FC.url = media/popup_DB0DBF0E_835D_3A38_41DD_FD85AA2B28CB_en_0_2.jpg
+imlevel_C5ECF338_A2F1_05A3_41E1_6EA25375911F.url = media/popup_DB0DBF0E_835D_3A38_41DD_FD85AA2B28CB_en_0_3.jpg
+imlevel_C5EC8338_A2F1_05A3_41E0_A91D36F2FF6D.url = media/popup_DB0DBF0E_835D_3A38_41DD_FD85AA2B28CB_en_0_4.jpg
+imlevel_C5ECA338_A2F1_05A3_41C8_46472B641F73.url = media/popup_DB0DBF0E_835D_3A38_41DD_FD85AA2B28CB_en_0_5.jpg
+
+### Popup Image
+
+### Title
+panorama_FBADCBA4_A2F1_04A3_41DD_8EEDFB3F8AD6.label = booth
+
+## Skin
+
+### Image
+Image_EDD8F59D_84B7_4E58_41DC_50156B1BD02E.url = skin/Image_EDD8F59D_84B7_4E58_41DC_50156B1BD02E_en.png
+
+## Tour
+
+### Description
+tour.description = Profesi Keuangan Expo
+
+### Title
+tour.name = IKPI

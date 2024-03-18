@@ -1,0 +1,52 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_B69EB28D_8468_2508_41DF_9FC2C9977708.source = https://akkai.or.id/
+LinkBehaviour_CAC21FEF_8821_B98D_41C4_6049B552BFE9.source = https://akkai.or.id/about
+LinkBehaviour_B57D11C5_8468_2778_41DB_CD6A38BE909E.source = https://akkai.or.id/about
+LinkBehaviour_B50A15F1_8468_EF18_41A7_71138AD81928.source = https://akkai.or.id/about
+LinkBehaviour_CDBCCD90_8821_7993_41DF_61003672276D.source = https://akkai.or.id/about
+LinkBehaviour_B4F6FBC2_8479_FB79_41B7_3497D9F6B857.source = https://akkai.or.id/members
+LinkBehaviour_B57B793E_8468_6708_41D2_1475D97D4C46.source = https://akkai.or.id/members
+LinkBehaviour_A987DD25_8478_3F3B_41D3_EC8FB5388015.source = https://akkai.or.id/members
+LinkBehaviour_BC12BBED_8468_3B0B_41DD_FAB458B2C98D.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_B37A7F05_8468_7CFB_41DA_4B98BA9D982B.source = https://home.profesikeuanganexpo.id/#/url/168
+LinkBehaviour_AA286C3D_8478_3D0B_41D3_BACB08F542DD.source = https://rebrand.ly/calendlyakkai
+WebFrame_B18E4193_8468_271F_41DC_17721FC31BDF.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.382365291418!2d106.80056081470964!3d-6.344503395408726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ee8918c47423%3A0xcadf96e3e8467326!2sJl.%20Brigif%20No.39B%2C%20RT.1%2FRW.1%2C%20Cipedak%2C%20Kec.%20Jagakarsa%2C%20Kota%20Jakarta%20Selatan%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2012630!5e0!3m2!1sid!2sid!4v1664372889387!5m2!1sid!2sid
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_B35C28C7_8468_E507_41C0_60A2B402BBB6.text = KEMBALI KE NAVIGASI
+
+## Media
+
+### Audio
+audiores_B3C4E4DA_8468_6D09_41A2_0BE4A68360CB.mp3Url = media/audio_B09A7FEE_8469_FB08_41A5_7D75D8B41286_en.mp3
+
+### Image
+imlevel_DE545A12_D044_BBC5_41D9_896A808BC386.url = media/panorama_DEA5CA36_D03C_5BCC_41E6_469AA9F86B04_HS_2z1t8htu_en.png
+imlevel_DB5ADF45_CBA2_29D0_41DE_B903084D4513.url = media/popup_B48834FC_8478_2D09_41A5_F1579A79DEF3_en_0_0.jpg
+imlevel_DB5A2F45_CBA2_29D0_418F_4E1B2E70B64A.url = media/popup_B48834FC_8478_2D09_41A5_F1579A79DEF3_en_0_1.jpg
+imlevel_DB5A3F45_CBA2_29D0_41B0_57F0CFD0A3B1.url = media/popup_B48834FC_8478_2D09_41A5_F1579A79DEF3_en_0_2.jpg
+
+### Popup Image
+
+### Title
+panorama_DEA5CA36_D03C_5BCC_41E6_469AA9F86B04.label = booth
+
+## Skin
+
+### Image
+Image_A9D97BDF_8478_3B07_41DF_8064EF3F26DF.url = skin/Image_A9D97BDF_8478_3B07_41DF_8064EF3F26DF_en.png
+Image_C2DADFD2_A2EF_1CE7_41D4_5F52B18E10DC.url = skin/Image_C2DADFD2_A2EF_1CE7_41D4_5F52B18E10DC_en.jpeg
+Image_C5A36A09_A2EF_0762_41CE_6DC63D23752B.url = skin/Image_C5A36A09_A2EF_0762_41CE_6DC63D23752B_en.jpeg
+
+## Tour
+
+### Description
+
+### Title
+tour.name = AKKAI

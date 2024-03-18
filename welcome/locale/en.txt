@@ -1,0 +1,37 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_8EFFF827_A22F_1061_41E3_7D4DF4F7237F.source = https://home.profesikeuanganexpo.id/#/home
+LinkBehaviour_99D72F90_8CEB_36D7_41C5_35F6AEBEC86B.source = https://home.profesikeuanganexpo.id/#/login
+LinkBehaviour_8F191BC7_A22F_1021_41D7_AAA596C5C85C.source = https://home.profesikeuanganexpo.id/#/register
+
+## Media
+
+### Title
+video_88C25972_85D6_EFC8_41C4_E3C9EC2E0A71.label = Profesi Keuangan Expo 2022 - Teaser
+panorama_9524CD27_8CFB_3BF9_41AB_2C39BE3BD107.label = lobby fix pisan update resize
+
+### Video
+videolevel_BD16ABE1_A77B_69F8_41E0_E3FF04853CA6.url = media/video_88C25972_85D6_EFC8_41C4_E3C9EC2E0A71_en.mp4
+videolevel_BD16ABE1_A77B_69F8_41E0_E3FF04853CA6.posterURL = media/video_88C25972_85D6_EFC8_41C4_E3C9EC2E0A71_poster_en.jpg
+
+## Skin
+
+### Button
+Button_9F8F6E1B_8CE9_79CA_419B_E6E31F410B18.label = LOGIN
+Button_8EFD2826_A22F_1063_41A2_238BEFFC46B3.label = LOGIN AS GUEST
+Button_8EE74BC6_A22F_1023_41DE_31DEB22FDFF6.label = REGISTER
+Button_77BBCAA0_7974_DA18_41B5_953C26D60536.label = SKIP VIDEO
+
+### Image
+Image_9E9BA10A_8CE9_CBCA_41D5_6769F568FFBD.url = skin/Image_9E9BA10A_8CE9_CBCA_41D5_6769F568FFBD_en.png
+
+## Tour
+
+### Description
+tour.description = Selamat Datang di Event Profesi Keuangan Expo 2022.
+
+### Title
+tour.name = Event Profesi Keuangan Expo 2022
