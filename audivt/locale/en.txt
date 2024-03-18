@@ -1,0 +1,18 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_70C4E5D4_607C_8909_41C7_96EEF990EEDF.source = https://rebrand.ly/audipppk
+
+## Media
+
+### Title
+panorama_6F0627DB_6074_893F_41D5_0243AC86A037.label = auditorium_Moment
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 9
